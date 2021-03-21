@@ -1,5 +1,6 @@
 # pgAdmin4Python
-Конфиг для сборки Docker образа pgAdmin4python
+Конфиг для сборки Docker образа [pgAdmin4python](https://www.pgadmin.org/download/pgadmin-4-python/)
+
 Команда сборки 
 ```
   docker build . -tag you_name_build
