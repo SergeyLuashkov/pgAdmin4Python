@@ -9,5 +9,5 @@
   docker run -p 5050:5050 you_name_build you_Email you_password
 ```
 
-Можно собрать везде, где есть поддержка python3
+Можно собрать везде, где есть поддержка python3  
 Собран специально для работы на RasperryPi4
